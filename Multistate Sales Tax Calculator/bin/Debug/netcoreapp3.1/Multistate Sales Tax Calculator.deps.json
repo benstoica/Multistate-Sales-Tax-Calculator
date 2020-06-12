@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Multistate Sales Tax Calculator/1.0.0": {
+        "runtime": {
+          "Multistate Sales Tax Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multistate Sales Tax Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
