@@ -1,0 +1,13 @@
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\bin\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.exe
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\bin\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.deps.json
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\bin\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.runtimeconfig.json
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\bin\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.runtimeconfig.dev.json
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\bin\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.dll
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\bin\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\obj\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.csprojAssemblyReference.cache
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\obj\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.AssemblyInfoInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\obj\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.AssemblyInfo.cs
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\obj\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\obj\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.dll
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\obj\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.pdb
+F:\Projects\C#\ControlFlow\ControlFlow\Multistate Sales Tax Calculator\obj\Debug\netcoreapp3.1\Multistate Sales Tax Calculator.genruntimeconfig.cache
